@@ -17,7 +17,7 @@
     +4 cat years for each year after that
     ```
 
-* Dog Years
+* Dog Years 
     ```
     15 dog years for first year
     +9 dog years for second year
