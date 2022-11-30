@@ -1,8 +1,25 @@
 # Curriculeon Maven Template
-* **Objective** - The purpose of this repository is to create a standard template to clone from when creating new projects.
+* **Objective** - To solve the codewars problem from the link below
+  * https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b
 
-## How to use
-* To use this project as template, _clone_ the project into you `~/dev` directory.
-* Upon cloning, open the project in a text editor (VSCode, IntelliJ, SublimeText, Atom, etc.)
-* Ensure that the `artifactId` of the project is changed from `maven-template-project` to a more appropriate project name.
-* Click view the [`README-Sample.md`](./README-Sample.md) to view _how_ a `README` should be structured for a project.
+## Instructions
+* I have a cat and a dog.
+* I got them at the same time as kitten/puppy. That was `humanYears` years ago.
+* Return their respective ages now as `[humanYears,catYears,dogYears]`
+* **NOTES:**
+    * `humanYears >= 1`
+    * `humanYears are whole numbers only`
+
+* Cat Years
+    ```
+    15 cat years for first year
+    +9 cat years for second year
+    +4 cat years for each year after that
+    ```
+
+* Dog Years
+    ```
+    15 dog years for first year
+    +9 dog years for second year
+    +5 dog years for each year after that
+    ```
